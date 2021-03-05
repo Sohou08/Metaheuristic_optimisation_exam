@@ -1,1 +1,8 @@
-# Metaheuristic_optimization_exam
+# Solve optimization problem with metaheuristic
+
+## Discrete optimization : TSP problem
+
+* 
+
+
+
