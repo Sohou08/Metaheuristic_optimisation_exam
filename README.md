@@ -9,6 +9,7 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - mutation : 0.05
    - crossover : 0.9
 **Djibouti
+
 - 38 cities 
 - Optimal value is 6656
 - Results 
@@ -16,7 +17,8 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - computation time : 48 seconds
  [Code source]()
  
-* Qatar
+**Qatar
+
 - 194 Cities
 - Optimal value is 9352
 - Results
