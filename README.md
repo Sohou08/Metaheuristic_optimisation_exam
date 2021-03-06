@@ -17,7 +17,7 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - computation time : 48 seconds
  [Code source]()
  
-**Qatar
+**__Qatar__**
 
 - 194 Cities
 - Optimal value is 9352
