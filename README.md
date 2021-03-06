@@ -8,7 +8,7 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - offspring : 1000
    - mutation : 0.05
    - crossover : 0.9
-* Djibouti
+**Djibouti
 - 38 cities 
 - Optimal value is 6656
 - Results 
