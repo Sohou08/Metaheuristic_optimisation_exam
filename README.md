@@ -17,7 +17,7 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - Fitness : 9648
    - Computation time : 48 seconds
   
- [Code source]()
+ [Code source](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/djibouti)
  
 **__Qatar__**
 
@@ -27,11 +27,11 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
    - Fitness : 36443
    - Computational time : 413 seconds
 
-[Code source]()
+[Code source](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/qatar)
 
 ## Continuous optimization
 
-There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epfl.ch/courses/optimization2011/slides/09-bfgs.pdf) from Scipy was used for the first function and the lastest are analyzed with [PSO](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/). Each function is evaluated respectively with 50 et 500 dimensions. 
+There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epfl.ch/courses/optimization2011/slides/09-bfgs.pdf) from Scipy was used for the first function and the lastest are analyzed with [PSO](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/). Each function is evaluated respectively with 50 and 500 dimensions. The detailed information of each function is described [here](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/additional_information).
 
 *  [Sphere function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/sphere)
 *  [Schwefel function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/schwefel)
