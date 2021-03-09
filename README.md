@@ -34,11 +34,62 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
 There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epfl.ch/courses/optimization2011/slides/09-bfgs.pdf) from Scipy was used for the first function and the lastest are analyzed with [PSO](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/). Each function is evaluated respectively with 50 and 500 dimensions. The detailed information of each function is described [here](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/additional_information).
 
 *  [Sphere function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/sphere)
+
+- Dimension 50
+   - Fitness : 0
+   - Computational time : 0.067 seconds
+
+- Dimension 500
+   - Fitness : 0
+   - Computational time : 5.039 seconds
+  
 *  [Schwefel function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/schwefel)
+
+- Dimension 50
+   - Fitness : -270.01
+   - Computational time : 4.430 seconds
+
+- Dimension 500
+   - Fitness : -255.69
+   - Computational time : 18.142 seconds
+
 *  [Rosenbrock function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rosenbrock)
+
+- Dimension 50
+   - Fitness : 3E+11 
+   - Computational time : 106.660 seconds
+
+- Dimension 500
+   - Fitness : 4E+12
+   - Computational time : 34.992 seconds
+   
 *  [Rastrigin function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rastrigin)
+
+- Dimension 50
+   - Fitness : 698 
+   - Computational time : 20.198 seconds
+
+- Dimension 500
+   - Fitness : 12391
+   - Computational time : 42.631 seconds
+   
 *  [Griewank function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/griewank)
+
+- Dimension 50
+   - Fitness : 1818 
+   - Computational time : 14.789 seconds
+
+- Dimension 500
+   - Fitness : 28780
+   - Computational time : 9.437 seconds
+   
 *  [ackley function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/ackley)
 
+- Dimension 50
+   - Fitness : -119 
+   - Computational time : 16.596 seconds
 
+- Dimension 500
+   - Fitness : -118
+   - Computational time : 9.142 seconds
 
