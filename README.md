@@ -2,7 +2,7 @@
 
 ## Discrete optimization : TSP problem
 
-There are two tsp problems to solve: Djibouti and qatar. The data is from to the [math.uwarterloo.ca](http://www.math.uwaterloo.ca/tsp/world/countries.html)
+There are two tsp problems to solve: Djibouti and qatar. The data is from to the [math.uwarterloo.ca](http://www.math.uwaterloo.ca/tsp/world/countries.html) website.
 * Genetic algorithm was choosen as optimization algorithm in both case. After multiples tests of parameters, the bests one closer to the optimal value are :
    - Population : 1000
    - Offspring : 1000
@@ -31,7 +31,7 @@ There are two tsp problems to solve: Djibouti and qatar. The data is from to the
 
 ## Continuous optimization
 
-There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epfl.ch/courses/optimization2011/slides/09-bfgs.pdf) from Scipy was used for the first function and the lastest are analyzed with [PSO](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/). Each function is evaluated respectively with 50 and 500 dimensions. The detailed information of each function is described [here](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/additional_information).
+There are function to optimize from [CEC’2008](). [BFGS](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Broyden-Fletcher-Goldfarb-Shanno) from Scipy was used for the first function and the lastest are analyzed with [PSO](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/). Each function is evaluated respectively with 50 and 500 dimensions. The detailed information of each function is described [here](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/additional_information).
 
 *  [Sphere function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/sphere)
 
