@@ -35,23 +35,23 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
 
 *  [Sphere function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/sphere)
 
-- Dimension 50
-   - Fitness : 0
-   - Computational time : 0.067 seconds
+   - Dimension 50
+        - Fitness : 0
+        - Computational time : 0.067 seconds
 
-- Dimension 500
-   - Fitness : 0
-   - Computational time : 5.039 seconds
+   - Dimension 500
+        - Fitness : 0
+        - Computational time : 5.039 seconds
   
 *  [Schwefel function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/schwefel)
 
-- Dimension 50
-   - Fitness : -270.01
-   - Computational time : 4.430 seconds
+   - Dimension 50
+        - Fitness : -270.01
+        - Computational time : 4.430 seconds
 
-- Dimension 500
-   - Fitness : -255.69
-   - Computational time : 18.142 seconds
+   - Dimension 500
+        - Fitness : -255.69
+        - Computational time : 18.142 seconds
 
 *  [Rosenbrock function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rosenbrock)
 
@@ -65,31 +65,31 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
    
 *  [Rastrigin function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rastrigin)
 
-- Dimension 50
-   - Fitness : 698 
-   - Computational time : 20.198 seconds
+   - Dimension 50
+        - Fitness : 698 
+        - Computational time : 20.198 seconds
 
-- Dimension 500
-   - Fitness : 12391
-   - Computational time : 42.631 seconds
+   - Dimension 500
+        - Fitness : 12391
+        - Computational time : 42.631 seconds
    
 *  [Griewank function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/griewank)
 
-- Dimension 50
-   - Fitness : 1818 
-   - Computational time : 14.789 seconds
+   - Dimension 50
+        - Fitness : 1818 
+        - Computational time : 14.789 seconds
 
-- Dimension 500
-   - Fitness : 28780
-   - Computational time : 9.437 seconds
+   - Dimension 500
+        - Fitness : 28780
+        - Computational time : 9.437 seconds
    
 *  [ackley function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/ackley)
 
-- Dimension 50
-   - Fitness : -119 
-   - Computational time : 16.596 seconds
+   - Dimension 50
+        - Fitness : -119 
+        - Computational time : 16.596 seconds
 
-- Dimension 500
-   - Fitness : -118
-   - Computational time : 9.142 seconds
+   - Dimension 500
+         - Fitness : -118
+         - Computational time : 9.142 seconds
 
