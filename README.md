@@ -55,13 +55,13 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
 
 *  [Rosenbrock function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rosenbrock)
 
-- Dimension 50
-   - Fitness : 3E+11 
-   - Computational time : 106.660 seconds
+   - Dimension 50
+        - Fitness : 3E+11 
+        - Computational time : 106.660 seconds
 
-- Dimension 500
-   - Fitness : 4E+12
-   - Computational time : 34.992 seconds
+   - Dimension 500
+        - Fitness : 4E+12
+        - Computational time : 34.992 seconds
    
 *  [Rastrigin function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rastrigin)
 
