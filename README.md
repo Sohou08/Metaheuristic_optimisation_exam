@@ -90,6 +90,6 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
         - Computational time : 16.596 seconds
 
    - Dimension 500
-         - Fitness : -118
-         - Computational time : 9.142 seconds
+        - Fitness : -118
+        - Computational time : 9.142 seconds
 
