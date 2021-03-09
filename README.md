@@ -57,11 +57,11 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
 
    - Dimension 50
         - Fitness : 3E+11 
-        - Computational time : 106.660 seconds
+        - Computational time : 7.152 seconds
 
    - Dimension 500
         - Fitness : 4E+12
-        - Computational time : 34.992 seconds
+        - Computational time : 7.693 seconds
    
 *  [Rastrigin function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/rastrigin)
 
@@ -76,20 +76,20 @@ There are function to optimize from [CEC’2008](). [BFGS](https://transp-or.epf
 *  [Griewank function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/griewank)
 
    - Dimension 50
-        - Fitness : 1818 
-        - Computational time : 14.789 seconds
+        - Fitness : 2874 
+        - Computational time : 3.406 seconds
 
    - Dimension 500
-        - Fitness : 28780
-        - Computational time : 9.437 seconds
+        - Fitness : 31126
+        - Computational time : 7.025  seconds
    
 *  [ackley function](https://github.com/Sohou08/Metaheuristic_optimization_exam/tree/main/ackley)
 
    - Dimension 50
         - Fitness : -119 
-        - Computational time : 16.596 seconds
+        - Computational time : 4.722 seconds
 
    - Dimension 500
         - Fitness : -118
-        - Computational time : 9.142 seconds
+        - Computational time : 7.222 seconds
 
